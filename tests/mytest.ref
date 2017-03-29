@@ -1,0 +1,30 @@
+new-line 0 
+non-whitespace-character 1 \
+identifier 3 u34
+new-line 0 
+pp-number 10 2342_㐒er
+new-line 0 
+character-literal 4 'π'
+new-line 0 
+new-line 0 
+preprocessing-op-or-punc 1 ?
+preprocessing-op-or-punc 1 ?
+preprocessing-op-or-punc 1 #
+new-line 0 
+string-literal 25 "dghsdf/*dsfgadfg*/gsdfg"
+new-line 0 
+new-line 0 
+preprocessing-op-or-punc 1 #
+identifier 6 define
+whitespace-sequence 0 
+identifier 1 R
+whitespace-sequence 0 
+string-literal 3 "x"
+new-line 0 
+identifier 5 const
+whitespace-sequence 0 
+identifier 4 char
+preprocessing-op-or-punc 1 *
+whitespace-sequence 0 
+identifier 1 s
+preprocessing-op-or-punc 1 =

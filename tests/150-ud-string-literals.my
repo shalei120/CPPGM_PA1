@@ -1,0 +1,15 @@
+user-defined-string-literal 8 "foo"abc
+non-whitespace-character 1 
+new-line 0 
+user-defined-string-literal 9 "foo"_abc
+non-whitespace-character 1 
+new-line 0 
+user-defined-string-literal 4 ""_w
+non-whitespace-character 1 
+new-line 0 
+user-defined-string-literal 5 "a"_w
+non-whitespace-character 1 
+new-line 0 
+non-whitespace-character 1 
+new-line 0 
+eof

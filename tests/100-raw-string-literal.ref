@@ -1,0 +1,5 @@
+string-literal 16 R"foo(ba
+r)foo"
+non-whitespace-character 1 
+new-line 0 
+eof

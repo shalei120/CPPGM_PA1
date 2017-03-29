@@ -1,0 +1,8 @@
+new-line 0 
+non-whitespace-character 1 \
+identifier 3 u34
+new-line 0 
+pp-number 5 2342_
+utf8 segmentation error!
+ERROR: utf8 segmentation error!
+

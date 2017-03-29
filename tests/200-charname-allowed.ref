@@ -1,0 +1,37 @@
+non-whitespace-character 2 §
+non-whitespace-character 1 
+new-line 0 
+identifier 2 ¨
+non-whitespace-character 1 
+new-line 0 
+non-whitespace-character 2 ©
+non-whitespace-character 1 
+new-line 0 
+non-whitespace-character 2 ±
+non-whitespace-character 1 
+new-line 0 
+identifier 2 ²
+non-whitespace-character 1 
+new-line 0 
+identifier 2 ·
+non-whitespace-character 1 
+new-line 0 
+identifier 4 󯿽
+non-whitespace-character 1 
+new-line 0 
+non-whitespace-character 4 󯿿
+non-whitespace-character 1 
+new-line 0 
+non-whitespace-character 4 󰀀
+non-whitespace-character 1 
+new-line 0 
+identifier 3 foo
+whitespace-sequence 0 
+new-line 0 
+non-whitespace-character 2 ̀
+identifier 4 Ѐ̀
+non-whitespace-character 1 
+new-line 0 
+non-whitespace-character 1 
+new-line 0 
+eof

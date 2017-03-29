@@ -1,0 +1,8 @@
+identifier 3 foo
+non-whitespace-character 1 \
+non-whitespace-character 1 
+new-line 0 
+identifier 3 bar
+non-whitespace-character 1 
+new-line 0 
+eof
